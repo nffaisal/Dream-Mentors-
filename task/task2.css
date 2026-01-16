@@ -1,0 +1,36 @@
+.heading {
+    background-color: rgb(230, 234, 238);
+    margin: 10px 10px 10px 10px;
+    padding: 20px 35px 45px;
+    text-align: center;
+
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article {
+    background-color:rgba(243, 243, 243, 0.86);
+    margin: 10px;
+    padding: 30px;
+    text-align: left;
+}
+table {
+    border-collapse: seperate;
+    border-spacing: 15px;
+}
+td {
+   font-size: 14px;
+   padding:50px;
+   border-spacing: 30px;
+   border-style: solid;
+   border-color: grey;
+   border-width: 1px;
+  
+}
+footer {
+    text-align: center;
+    margin: 10px;
+    padding:7px;
+    background-color: rgba(243, 243, 243, 0.727)
+}
