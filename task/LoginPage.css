@@ -1,0 +1,62 @@
+form {
+    background-color: rgb(156, 254, 254);
+    border-style: solid;
+    border-color: rgb(119, 184, 184);
+    margin-left: 25%;
+    margin-right: 25%;
+
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    height: 70%;
+}
+label {
+    color:  rgb(5, 54, 59);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    word-spacing: 4%;
+    letter-spacing: 4%;
+    font-size: medium;
+}
+.loginButton:hover {
+    background-color: rgb(84, 84, 232);
+    color: azure;
+    font-size: large;
+}
+.loginButton {
+    font-size: medium;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: azure;
+    border-color: rgb(189, 234, 234);
+}
+header {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 3.5rem;
+    margin-bottom: 1.5rem;
+    color: rgb(16, 47, 47);
+}
+.LoginHeading { 
+    margin-top: 6%;
+    margin-bottom: 2%;
+    
+}
+h1 {
+    font-size: 48px;
+}
+.username {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 18px;
+    padding-left: 18px;
+    width: 12rem;
+}
+.passwordInput {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 18px;
+    padding-left: 18px;
+    width: 12rem;
+}
